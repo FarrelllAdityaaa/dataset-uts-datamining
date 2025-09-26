@@ -17,15 +17,3 @@
 12. Price: Harga mobil bekas dalam INR (Rupee India) Lakhs.
 
 Sumber data: [Used Cars Price Prediction](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction?select=train-data.csv)
-
-## Dataset Salary Prediction
-**Berikut adalah Keterangannya:**
-<br>
-1. Age: Usia setiap karyawan dalam tahun
-2. Gender: Jenis kelamin setiap karyawan
-3. Education Level: Tingkat pendidikan setiap karyawan
-4. Job Title: Jabatan masing-masing karyawan
-5. Year of Experience: Jumlah tahun pengalaman kerja setiap karyawan
-6. Salary: Gaji tahunan setiap karyawan dalam dolar AS
-
-Sumber data: [Salary Prediction](https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer)
